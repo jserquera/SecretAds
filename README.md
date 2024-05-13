@@ -9,4 +9,4 @@ El sistema queda explicado en la web: [https://secretads.weebly.com/](https://se
 Se ofrece con licencia permisiva; cualquiera puede usarlo.
 
 # Cómo Contribuir
-Como SecretAds es un sistema de hardware, y por ahora no incluye código, la manera de contribuir será por medio de la Wiki de este repositorio.
+Como SecretAds es un sistema de hardware, y por ahora no incluye código, la manera de contribuir será por medio de la [Wiki](https://github.com/jserquera/SecretAds/wiki) de este repositorio.
